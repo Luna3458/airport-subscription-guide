@@ -7,6 +7,7 @@
 | FlyingBird | 多种订阅周期，提供流量补充包 | [点击注册](https://fbinv02.fbaff.cc/auth/register?code=CLnyZffW) |
 | Selom Network | 月付流量档位丰富 | [点击注册](https://www.selom.xyz/#/register?code=BkR8Susq) |
 | 鲤云 | 提供小流量月付及季付、年付选择 | [点击注册](https://ly888.liydl.com:8888/#/register?code=vYVu8g7d) |
+| 月兔VPN（Tsuki） | 公网中转，Hysteria2（UDP）；¥12/30天，100G/30天 | [官网](https://buddahs-temptation.win/tsuki) |
 
 ## 📌 订阅与使用注意事项
 
